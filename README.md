@@ -11,4 +11,3 @@ Content following challenges :
 - Challenge07 : AES in ECB mode
 - Challenge08 : Detect AES in ECB mode
 - Challenge09 : Implement CBC mode
-- Challenge10 : Byte-at-a-time ECB decryption
